@@ -16,5 +16,8 @@
     "lodash": "^4.17.21",
     "mongoose": "^6.5.4",
     "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "16.16"
   }
 }
